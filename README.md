@@ -1,11 +1,23 @@
 ### Hi there 👋
-Hi there! I'm a Flutter developer passionate about crafting beautiful and performant mobile apps. My experience with Flutter includes building apps from scratch, integrating with APIs, and creating custom widgets and animations.
+Hello there! 👋
 
-In my projects, I prioritize clean and maintainable code, using architecture patterns like BLoC and Provider to ensure scalability and testability. I also pay attention to UI/UX details and aim for pixel-perfect designs that are intuitive and delightful to use.
+I'm a Senior Software Developer with 15 years of experience building scalable, reliable, and secure applications. I have a proven track record of delivering high-quality software solutions in various industries such as healthcare, finance, and e-commerce.
 
-Some of my recent projects include a social media app with real-time chat and notifications, a fitness tracker with custom animations and gamification features, and a weather app with dynamic backgrounds and location-based data.
+My expertise lies in designing and implementing complex systems using modern software development practices and agile methodologies. I'm well-versed in a variety of programming languages, frameworks, and tools and always strive to stay up-to-date with the latest industry trends.
 
-I'm always looking to learn and improve my skills, and I enjoy collaborating with other developers on open-source projects. Feel free to browse my repositories and reach out if you have any questions or feedback. Let's build something great together
+I have a passion for open-source software and have contributed to several popular projects such as serverpod. I believe that software development is a collaborative process and enjoy working with teams to create innovative solutions that exceed client expectations.
+
+Here are some of the technologies I'm proficient in:
+
+Flutter
+C++ / Kotlin
+ASP.Net core
+JavaScript / TypeScript
+React / React Native
+Node.js
+SQL / NoSQL databases
+AWS / Azure / GCP
+Check out my repositories to see some of my recent projects and feel free to connect with me if you have any questions or collaboration opportunities. Let's build something great together! 🚀
 
 <a href="https://app.daily.dev/ManoloRamon"><img src="https://api.daily.dev/devcards/fa2933f8fadd4ecb88c6ee4e5c1f6632.png?r=w3l" width="400" alt="Manolo Ramon's Dev Card"/></a>
 
