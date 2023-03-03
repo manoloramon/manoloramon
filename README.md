@@ -9,14 +9,17 @@ I have a passion for open-source software and have contributed to several popula
 
 Here are some of the technologies I'm proficient in:
 
-Flutter
-C++ / Kotlin
-ASP.Net core
-JavaScript / TypeScript
-React / React Native
-Node.js
-SQL / NoSQL databases
-AWS / Azure / GCP
+<ul>
+  <li>Flutter</li>
+  <li>C++ / Kotlin</li>
+  <li>ASP.Net core Web API</li>
+  <li>JavaScript / TypeScript</li>
+  <li>React / React Native</li>
+  <li>Node.js</li>
+  <li>SQL / NoSQL databases</li>
+  <li>AWS / Azure / GCP</li>
+</ul>
+
 Check out my repositories to see some of my recent projects and feel free to connect with me if you have any questions or collaboration opportunities. Let's build something great together! 🚀
 
 <a href="https://app.daily.dev/ManoloRamon"><img src="https://api.daily.dev/devcards/fa2933f8fadd4ecb88c6ee4e5c1f6632.png?r=w3l" width="400" alt="Manolo Ramon's Dev Card"/></a>
