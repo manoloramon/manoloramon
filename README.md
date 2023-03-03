@@ -1,5 +1,4 @@
-### Hi there 👋
-Hello there! 👋
+### Hello there! 👋
 
 I'm a Senior Software Developer with 15 years of experience building scalable, reliable, and secure applications. I have a proven track record of delivering high-quality software solutions in various industries such as healthcare, finance, and e-commerce.
 
