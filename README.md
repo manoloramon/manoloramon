@@ -1,5 +1,11 @@
 ### Hi there 👋
+Hi there! I'm a Flutter developer passionate about crafting beautiful and performant mobile apps. My experience with Flutter includes building apps from scratch, integrating with APIs, and creating custom widgets and animations.
 
+In my projects, I prioritize clean and maintainable code, using architecture patterns like BLoC and Provider to ensure scalability and testability. I also pay attention to UI/UX details and aim for pixel-perfect designs that are intuitive and delightful to use.
+
+Some of my recent projects include a social media app with real-time chat and notifications, a fitness tracker with custom animations and gamification features, and a weather app with dynamic backgrounds and location-based data.
+
+I'm always looking to learn and improve my skills, and I enjoy collaborating with other developers on open-source projects. Feel free to browse my repositories and reach out if you have any questions or feedback. Let's build something great together
 <!--
 **manoloramon/manoloramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
