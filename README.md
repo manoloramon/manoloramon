@@ -6,6 +6,9 @@ In my projects, I prioritize clean and maintainable code, using architecture pat
 Some of my recent projects include a social media app with real-time chat and notifications, a fitness tracker with custom animations and gamification features, and a weather app with dynamic backgrounds and location-based data.
 
 I'm always looking to learn and improve my skills, and I enjoy collaborating with other developers on open-source projects. Feel free to browse my repositories and reach out if you have any questions or feedback. Let's build something great together
+
+<a href="https://app.daily.dev/ManoloRamon"><img src="https://api.daily.dev/devcards/fa2933f8fadd4ecb88c6ee4e5c1f6632.png?r=w3l" width="400" alt="Manolo Ramon's Dev Card"/></a>
+
 <!--
 **manoloramon/manoloramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
