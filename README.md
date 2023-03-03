@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi there! I'm a Flutter developer passionate about crafting beautiful and performant mobile apps. My experience with Flutter includes building apps from scratch, integrating with APIs, and creating custom widgets and animations.</h1>
+Hi there! I'm a Flutter developer passionate about crafting beautiful and performant mobile apps. My experience with Flutter includes building apps from scratch, integrating with APIs, and creating custom widgets and animations.
 
 In my projects, I prioritize clean and maintainable code, using architecture patterns like BLoC and Provider to ensure scalability and testability. I also pay attention to UI/UX details and aim for pixel-perfect designs that are intuitive and delightful to use.
 
