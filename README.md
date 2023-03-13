@@ -10,7 +10,7 @@ Here are some of the technologies I'm proficient in:
 
 <ul>
   <li>Flutter/Dart</li>
-  <li>C#,ASP.Net core Web API</li>
+  <li>C#, ASP.Net core Web API</li>
   <li>JavaScript / TypeScript</li>
   <li>React / React Native</li>
   <li>C++ / Kotlin</li>
