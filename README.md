@@ -9,11 +9,11 @@ I have a passion for open-source software and have contributed to several popula
 Here are some of the technologies I'm proficient in:
 
 <ul>
-  <li>Flutter</li>
-  <li>C++ / Kotlin</li>
-  <li>ASP.Net core Web API</li>
+  <li>Flutter/Dart</li>
+  <li>C#,ASP.Net core Web API</li>
   <li>JavaScript / TypeScript</li>
   <li>React / React Native</li>
+  <li>C++ / Kotlin</li>
   <li>Node.js</li>
   <li>SQL / NoSQL databases</li>
   <li>AWS / Azure / GCP</li>
