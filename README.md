@@ -19,8 +19,6 @@ Here are some of the technologies I'm proficient in:
 
 Check out my repositories to see some of my recent projects and feel free to connect with me if you have any questions or collaboration opportunities. Let's build something great together! 🚀
 
-<a href="https://app.daily.dev/ManoloRamon"><img src="https://api.daily.dev/devcards/fa2933f8fadd4ecb88c6ee4e5c1f6632.png?r=w3l" width="400" alt="Manolo Ramon's Dev Card"/></a>
-
 <!--
 **manoloramon/manoloramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
