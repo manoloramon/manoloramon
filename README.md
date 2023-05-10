@@ -12,6 +12,7 @@ Here are some of the technologies I'm proficient in:
   <li>Erlang</li>
   <li>Elixir</li>
   <li>Phoenix Framework</li>
+  <liRust</li>
   <li>C#, ASP.Net core Web API</li>
   <li>React / TypeScript</li>
   <li>SQL</li>
