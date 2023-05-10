@@ -4,7 +4,7 @@ I'm a Senior Software Developer with 20 years of experience building scalable, r
 
 My expertise lies in designing and implementing complex systems using modern software development practices and agile methodologies. I'm well-versed in a variety of programming languages, frameworks, and tools and always strive to stay up-to-date with the latest industry trends.
 
-I have a passion for open-source software and have contributed to several popular projects such as serverpod. I believe that software development is a collaborative process and enjoy working with teams to create innovative solutions that exceed client expectations.
+I have a passion for open-source software and have contributed to several popular project. I believe that software development is a collaborative process and enjoy working with teams to create innovative solutions that exceed client expectations.
 
 Here are some of the technologies I'm proficient in:
 
