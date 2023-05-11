@@ -9,14 +9,9 @@ I have a passion for open-source software and have contributed to several popula
 Here are some of the technologies I'm proficient in:
 
 <ul>
-  <li>Erlang</li>
-  <li>Elixir</li>
-  <li>Phoenix Framework</li>
-  <liRust</li>
   <li>C#, ASP.Net core Web API</li>
   <li>React / TypeScript</li>
   <li>SQL</li>
-  <li>Android / Kotlin</li>
 </ul>
 
 Check out my repositories to see some of my recent projects and feel free to connect with me if you have any questions or collaboration opportunities. Let's build something great together! 🚀
