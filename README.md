@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm a Senior Software Developer with 20 years of experience building scalable, reliable, and secure applications. I have a proven track record of delivering high-quality software solutions in various industries such as Automibile Dealers, Retail, IOT and e-commerce.
+I'm a Senior Software Developer with 20 years of experience building scalable, reliable, and secure applications. I have a proven track record of delivering high-quality software solutions in various industries such as Automibile Dealers, Retail and e-commerce.
 
 My expertise lies in designing and implementing complex systems using modern software development practices and agile methodologies. I'm well-versed in a variety of programming languages, frameworks, and tools and always strive to stay up-to-date with the latest industry trends.
 
