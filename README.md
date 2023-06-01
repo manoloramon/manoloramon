@@ -10,7 +10,7 @@ Here are some of the technologies I'm proficient in:
 
 <ul>
   <li>Elixir</li>
-  <li>Phoenix Framework / Live</li>
+  <li>Phoenix Framework / LiveView</li>
   <li>Erlang/OTP</li>
   <li>C#, ASP.Net core Web API</li>
   <li>React / TypeScript</li>
