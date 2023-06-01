@@ -9,6 +9,9 @@ I have a passion for open-source software and have contributed to several popula
 Here are some of the technologies I'm proficient in:
 
 <ul>
+  <li>Elixir</li>
+  <liPhoenix Framework / Live</li>
+  <li>Erlang/OTP</li>
   <li>C#, ASP.Net core Web API</li>
   <li>React / TypeScript</li>
   <li>SQL</li>
