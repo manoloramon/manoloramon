@@ -1,23 +1,24 @@
 ### Hello there! 👋
 
-I'm a Senior Software Developer with 20 years of experience building scalable, reliable, and secure applications. I have a proven track record of delivering high-quality software solutions in various industries such as Automibile Dealers, Retail and e-commerce.
+Experienced Chief Technology Officer specializing in driving digital transformation within the automotive sector. With a strong foundation in .NET technologies and deep expertise in Clean Architecture, Microservices, and AI-driven solutions, I lead technology initiatives to revolutionize automotive ERP systems, Dealer Management Systems, HR Management Systems, Point of Sale systems, CRM systems, and Payment Solutions.
 
-My expertise lies in designing and implementing complex systems using modern software development practices and agile methodologies. I'm well-versed in a variety of programming languages, frameworks, and tools and always strive to stay up-to-date with the latest industry trends.
-
-I have a passion for open-source software and have contributed to several popular project. I believe that software development is a collaborative process and enjoy working with teams to create innovative solutions that exceed client expectations.
+As the highest-ranking technical executive, I shape and execute technology strategies that align closely with business objectives. My career is marked by pioneering advancements in vehicle management, customer engagement, and operational efficiency through innovative use of AI, Machine Learning, and Automation technologies.
 
 Here are some of the technologies I'm proficient in:
 
 <ul>
-  <li>Elixir</li>
-  <li>Phoenix Framework / LiveView</li>
-  <li>Erlang/OTP</li>
-  <li>C#, ASP.Net core Web API</li>
-  <li>React / TypeScript</li>
-  <li>SQL</li>
+  <li>Programming Languages: C#, C++, Python, TypeScript</li>
+  <li>Web Development: ASP.NET Core, NodeJs, django and React</li>
+  <li>Mobile Development: React Native</li>
+  <li>Database Management: SQL Server, MySQL, MongoDB</li>
+  <li>Cloud Technologies: Azure Cloud</li>
+  <li>DevOps: Docker, Kubernetes, CI/CD pipelines</li>
+  <li>AI and Machine Learning: PyTorch, TensorFlow</li>
+  <li>Software Architecture: Clean Architecture, Microservices</li>
+  <li>Agile Methodologies: Scrum, Kanban</li>
 </ul>
 
-Check out my repositories to see some of my recent projects and feel free to connect with me if you have any questions or collaboration opportunities. Let's build something great together! 🚀
+I am passionate about leveraging technology to drive digital innovation in the automotive industry, enhancing competitiveness and customer satisfaction. Let's connect to discuss how my strategic vision and technical expertise can elevate your automotive business to new heights. 🚀
 
 <!--
 **manoloramon/manoloramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
